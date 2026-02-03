@@ -74,3 +74,4 @@ This project helped in understanding real-world restaurant data and applying dat
 ## Author
 Divya Lakhtariya  
 Data Analysis Intern – Cognifyz Technologies
+
